@@ -1,1 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T02:05:17.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" version="14.9.3" etag="zU84zpI6BVhmj9hdGFtC" type="github"><diagram id="wGS9xV0mKMq3Jad4QgP8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-31T02:16:34.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="lM-JyyKCZN7lijklHoMg" version="14.9.3" type="github">
+  <diagram id="wGS9xV0mKMq3Jad4QgP8" name="第 1 页">
+    <mxGraphModel dx="2852" dy="2593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B-hsOg4bchrILxvljEws-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-7" value="购买页面弹出抽奖转盘&lt;br&gt;转盘自动转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B-hsOg4bchrILxvljEws-6">
+          <mxGeometry x="-0.0222" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-2" value="各个入口进入购买会员页" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="79" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-8" target="B-hsOg4bchrILxvljEws-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-8" value="弹出用户对应的套餐价格弹窗" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-9" target="B-hsOg4bchrILxvljEws-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-9" value="进入到会员购买落地页" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-11" target="B-hsOg4bchrILxvljEws-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-11" value="选择开通" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-12" target="B-hsOg4bchrILxvljEws-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-12" value="进入购买页面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-14" target="B-hsOg4bchrILxvljEws-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-14" value="确认价格/选择优惠券？" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-16" target="B-hsOg4bchrILxvljEws-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-16" value="确认支付" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-19" target="B-hsOg4bchrILxvljEws-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-40" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B-hsOg4bchrILxvljEws-22">
+          <mxGeometry x="-0.0048" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-24" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-19" target="B-hsOg4bchrILxvljEws-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-19" value="支付成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="289" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-21" value="支付失败：&lt;br&gt;弹出支付失败页面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-23" target="B-hsOg4bchrILxvljEws-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-27" value="点击查看我的会员卡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B-hsOg4bchrILxvljEws-26">
+          <mxGeometry x="-0.45" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-23" target="B-hsOg4bchrILxvljEws-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-23" value="支付成功：&lt;br&gt;弹出支付成功页面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="439" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-25" target="B-hsOg4bchrILxvljEws-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-25" value="跳转到”我的会员页面“" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="579" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-28" target="B-hsOg4bchrILxvljEws-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-28" value="购买记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="439" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B-hsOg4bchrILxvljEws-30" target="B-hsOg4bchrILxvljEws-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-30" value="申请开票（小程序没有开票功能）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="439" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-34" value="到开票页面申请开票" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="439" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-36" value="查看已开通的限时套餐详情" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="719" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B-hsOg4bchrILxvljEws-41" value="&lt;font style=&quot;font-size: 30px&quot;&gt;体验会员购买主流程&lt;br&gt;（APP和小程序相同）&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-10" width="320" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
